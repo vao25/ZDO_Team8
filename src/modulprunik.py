@@ -4,7 +4,7 @@
 import sys
 import math
 import json
-import cv2
+#import cv2
 import random
 
 def intersectLines( pt1, pt2, ptA, ptB ):
